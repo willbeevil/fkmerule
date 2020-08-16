@@ -1,1 +1,1 @@
-# fkmerule
+Removed
