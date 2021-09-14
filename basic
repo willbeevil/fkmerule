@@ -3,6 +3,7 @@ surge_ruleset=DIRECT,rules/bxy/LocalAreaNetwork.list
 surge_ruleset=DIRECT,rules/bxy/Unbreak.list
 surge_ruleset=DIRECT,rules/bxy/Download.list
 surge_ruleset=🎵 网易云解锁,rules/bxy/UnblockNeteaseMusic.list
+surge_ruleset=🛑 BanAD,rules/bxy/BanAD.list
 surge_ruleset=📺 YouTube,rules/bxy/YouTube.list
 surge_ruleset=🗽 美帝,rules/bxy/us.list
 surge_ruleset=🎏 日本,rules/bxy/jp.list
@@ -26,5 +27,6 @@ custom_proxy_group=🗽 美帝`select`.(美)
 custom_proxy_group=🌊 台湾`select`.(台)
 custom_proxy_group=🎈 其他`select`.(新|港|俄|马|冷)
 custom_proxy_group=🍺 pilipili`select`[]DIRECT`[]🌊 台湾
+custom_proxy_group=🛑 BanAD`select`[]REJECT`[]DIRECT
 custom_proxy_group=🎵 网易云解锁`select`(本地)`[]DIRECT
 ;设置分组标志位
