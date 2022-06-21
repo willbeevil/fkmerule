@@ -1,0 +1,10 @@
+# Unbreak
+# > General
+DOMAIN,app.adjust.com
+# > Strava
+DOMAIN,analytics.strava.com
+# > Umeng
+DOMAIN,msg.umeng.com
+DOMAIN,msg.umengcloud.com
+# > movie
+DOMAIN-SUFFIX,europe.olemovienews.com
