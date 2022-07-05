@@ -1,3 +1,7 @@
 # 内容：BilibiliHMT 哔哩哔哩 港澳台番剧
+# 网页端
+DOMAIN,www.bilibili.com
+DOMAIN,api.bilibili.com
+# APP
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
