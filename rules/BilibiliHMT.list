@@ -5,5 +5,3 @@ DOMAIN,api.bilibili.com
 # APP
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
-# 漫画柜
-DOMAIN-SUFFIX,manhuagui.com
