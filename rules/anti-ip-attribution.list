@@ -1,6 +1,11 @@
 # IP伪装
+# weibo
 DOMAIN,weibo.com
+# bili 评论
 DOMAIN,api.bilibili.com
+# bili 主页ip
 DOMAIN,passport.bilibili.com
 DOMAIN,cm.bilibili.com
 DOMAIN,live-trace.bilibili.com
+# bili APP动态
+DOMAIN,dataflow.biliapi.com
