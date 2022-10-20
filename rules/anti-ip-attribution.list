@@ -9,3 +9,5 @@ DOMAIN,cm.bilibili.com
 DOMAIN,live-trace.bilibili.com
 # bili APP动态
 DOMAIN,grpc.biliapi.net
+# bili 投稿
+DOMAIN,member.bilibili.com
