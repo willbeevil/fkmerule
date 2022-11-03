@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,omofun.tv
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,cocomanga.com
 DOMAIN-SUFFIX,agemys.cc
+DOMAIN,steampipe.akamaized.net
 # B站APP 不直连加载不出港澳台
 IP-CIDR,45.43.32.234/32
 IP-CIDR,119.29.29.29/32
