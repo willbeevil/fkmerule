@@ -8,6 +8,7 @@ DOMAIN,steampipe.akamaized.net
 DOMAIN,www.dm233.me
 DOMAIN-SUFFIX,ddys.art
 DOMAIN-KEYWORD,ffzy-play
+DOMAIN-SUFFIX,hfyrw.com,DIRECT
 # Steam分配下载服务器
 DOMAIN-SUFFIX,steamserver.net
 # B站APP 不直连加载不出港澳台
